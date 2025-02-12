@@ -1,5 +1,5 @@
 # Decentralized Chat Application
-## Phase 1: Research & Planning (Week 1-2)
+## Phase 1: Research & Planning 
 
 ### 🎯 Key Objectives:
 - **Define the architecture**: Decide between a Peer-to-Peer (P2P) system or a Blockchain-based chat application.
