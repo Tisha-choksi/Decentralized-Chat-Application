@@ -40,3 +40,48 @@ The system enables distributed data routing through peer-to-peer network archite
 - **Security Audits & Updates:**  
   Security tests and penetration audits combined with code review evaluations should be performed on a regular basis to discover vulnerabilities as well as prevent them.  
   The application should provide an automatic system to update both security protocols and encryption libraries so user experience remains unaffected.
+
+# 4. User Identity Management
+
+## Self-Sovereign Identity
+- The system ought to let users establish their identity profiles independently from any central authority.
+- Users should have the option to stay anonymous or use false names in order to match the platform's main purpose of privacy-focused activities.
+
+## Reputation & Verification Systems
+- Relationship Authentication Systems should include reputation evaluation tools that let users determine trustworthy contacts without risking decentralization systems.
+
+## Flexible Authentication Methods
+- For better account security, the system should accept multiple authentication methods that combine biometric data with hardware verification tools.
+- Radio is account recovery creating safe retrieval methods which protect decentralization and privacy.
+
+# 5. File Sharing & Media Support
+
+## Seamless Media Integration
+- Users can maintain attachment functions through messaging by sending files consisting of images, videos, documents, and all other media types.
+- The software enables instant media content previewing through built-in viewers directly inside its chat interface.
+
+## Decentralized Storage Options
+- The application supports IPFS file storage to provide distributed, safe, secure, and redundant file retrieval for shared media.
+- Staff should use dual protection to keep transmitted media along with medium storage on decentralized networks encrypted.
+
+## 6. Additional Functionalities
+
+## User Presence & Notifications
+- The platform shows status symbols to notify participants about their online or offline availability as well as away status.
+- The system should send push alerts instantly after receiving new messages and delivering crucial announcements to users.
+
+## Search & History Management
+- The system allows users to perform search queries that go through all previous messages alongside media files.
+- A message archiving system should provide methods for saving important messages into an easily retrievable storage or creating special pinned sections.
+
+## Customization & Accessibility
+- The application enables users to personalize their interface presentation by selecting themes combined with layout preferences which enhance user interface functionality.
+- Users with disabilities should have convenient access to the application when screen readers function together with high-contrast themes and keyboard-based navigation options.
+
+## Moderation & Community Controls
+- Empower users throughout the community by developing automated content moderation tools which enable them to keep track of abusive content.
+- The system enables support for third-party integrations through automation bots and polling options as well as supplementary services.
+
+## Multi-Language & Global Support
+- The application should include support for various languages together with regional format standards to serve global users effectively.
+
