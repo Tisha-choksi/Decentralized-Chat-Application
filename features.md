@@ -1,4 +1,4 @@
-##1. Real-Time Messaging
+## 1. Real-Time Messaging
 - **One-to-One and Group Chats:**  
   Users should have the capability to create private conversations through the direct messaging feature.  
   Users can generate chat groups or channels through this feature which enables several users to communicate simultaneously in these groups.
